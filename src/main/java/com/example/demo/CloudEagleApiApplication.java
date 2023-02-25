@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CloudEagleApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CloudEagleApiApplication.class, args); 
+		SpringApplication.run(CloudEagleApiApplication.class, args);
 	}
 
 }
